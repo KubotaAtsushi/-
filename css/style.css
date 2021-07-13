@@ -17,6 +17,7 @@ header {
    background-color: transparent;
    display: inline;
    align-items: center;
+   z-index: 100
 }
 .header h1 {
    margin: 0; padding: 0;
@@ -46,6 +47,13 @@ nav {
    justify-content: center;
    align-items: center;
    height: 100vh;
+   position: relative;
+}
+.main-visual h1 {
+   position: absolute;
+   justify-content: center;
+   align-items: center;
+   color: #fff;
 }
 h2 {
    margin: 0;
