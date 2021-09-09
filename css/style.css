@@ -295,3 +295,38 @@ h2 {
 .color{
    color: #fff;
 }
+.mailform{
+   position: absolute;
+
+}
+.sub-visual2 ul {
+    left: 0;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    position: absolute;
+    margin: 0 auto;
+    padding-left: 0;
+}
+li {
+    margin-bottom: 20px;
+}
+.Pro {
+    left: 0;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    position: absolute;
+    margin-left: 190px;
+}
+.pro2 {
+   left: 0;
+    top: 70%;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    position: absolute;
+    margin-left: 190px;
+}
